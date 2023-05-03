@@ -1,5 +1,5 @@
 {
-	"fabricLoaderVerName": "fabric-loader-0.14.19-1.18.2",
+	"fabricLoaderName": "fabric-loader-0.14.19-1.18.2",
 	"server": {
 		"address": "kts.khaovps.com:25565",
 		"name": "Khao's Technical Server"
