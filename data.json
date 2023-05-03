@@ -1,7 +1,7 @@
 {
 	"fabricLoaderName": "fabric-loader-0.14.19-1.18.2",
 	"server": {
-		"pterodactylServer": "https://ctrl.cxmpute.com/server/e83ef96c",
+		"pterodactylServer": "https://ctrl.cxmpute.com/api/client/servers/e83ef96c/power",
 		"address": "kts.khaovps.com:25565",
 		"name": "Khao's Technical Server"
 	}
