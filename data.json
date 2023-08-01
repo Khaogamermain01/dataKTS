@@ -1,5 +1,5 @@
 {
-	"fabricLoaderName": "fabric-loader-0.14.21-1.19.2",
+	"loaderName": "fabric-loader-0.14.21-1.19.2",
 	"server": {
 		"pterodactylServer": "https://panel.wepwawet.net/api/client/servers/af3e4bc5/power",
 		"address": "play.khaodoes.dev:25565",
